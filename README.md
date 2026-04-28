@@ -1,19 +1,3 @@
-<style>
-@page {
-  size: A4;
-  margin: 2cm 2cm 2.5cm 2cm;
-  @bottom-right {
-    content: "Pagina " counter(page) " de " counter(pages);
-    font-size: 9pt;
-    color: #666;
-  }
-  @bottom-left {
-    content: "Guia Practica - API de Transacciones Bancarias";
-    font-size: 9pt;
-    color: #666;
-  }
-}
-</style>
 
 # Guia Practica: API de Transacciones Bancarias
 
